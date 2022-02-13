@@ -1,0 +1,13 @@
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\bin\Debug\priklady_naprocviceni.exe.config
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\bin\Debug\priklady_naprocviceni.exe
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\bin\Debug\priklady_naprocviceni.pdb
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.csprojAssemblyReference.cache
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.Form1.resources
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.exe
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.pdb
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.u1.resources
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.u2.resources
+C:\Users\marsy\Source\Repos\priklady_naprocviceni\priklady_naprocviceni\obj\Debug\priklady_naprocviceni.u3.resources
